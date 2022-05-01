@@ -8,6 +8,7 @@
     name: Bill Yuchen Lin
     semantic_scholar_id: https://www.semanticscholar.org/author/Bill-Yuchen-Lin/51583409?sort=pub-date
     username: ~Bill_Yuchen_Lin1
+    institution: University of Southern California
   - dblp_id: https://dblp.org/pid/222/6721-1.html
     emails: chaoyang.he@usc.edu
     first_name: Chaoyang
@@ -17,6 +18,7 @@
     name: Chaoyang He
     semantic_scholar_id: https://www.semanticscholar.org/author/Chaoyang-He/31927890
     username: ~Chaoyang_He1
+    institution: University of Southern California
   - dblp_id: https://dblp.org/pid/91/7844-5
     emails: tianli@cmu.edu
     first_name: Tian
@@ -70,58 +72,85 @@
     username: ~Chulin_Xie1
   role: Program Chairs
 
+
 - entries:
-  - name: Hongyuan Zhan 
+  - first_name:  Hongyuan  
+    last_name: Zhan
     instituion: Facebook
-  - name: Anit Kumar Sahu 
+  - first_name:  Anit Kumar  
+    last_name: Sahu
     instituion: Amazon Alexa AI
-  - name: Bahareh Harandizadeh 
+  - first_name:  Bahareh  
+    last_name: Harandizadeh
     instituion: University of Southern California
-  - name: Basak Guler 
+  - first_name:  Basak  
+    last_name: Guler
     instituion: University of California, Riverside
-  - name: Dimitris Stripelis 
+  - first_name:  Dimitris  
+    last_name: Stripelis
     instituion: University of Southern California
-  - name: Eugene Bagdasaryan 
+  - first_name:  Eugene  
+    last_name: Bagdasaryan
     instituion: Cornell University
-  - name: Farzin Haddadpour 
+  - first_name:  Farzin  
+    last_name: Haddadpour
     instituion: Yale University
-  - name: Gerald Penn 
+  - first_name:  Gerald  
+    last_name: Penn
     instituion: University of Toronto
-  - name: Hongyi Wang 
+  - first_name:  Hongyi  
+    last_name: Wang
     instituion: Carnegie Mellon University
-  - name: Jinhyun So 
+  - first_name:  Jinhyun  
+    last_name: So
     instituion: University of Southern California
-  - name: Jun Yan 
+  - first_name:  Jun  
+    last_name: Yan
     instituion: University of Southern California
-  - name: Kshitiz Malik 
+  - first_name:  Kshitiz  
+    last_name: Malik
     instituion: Facebook
-  - name: Kevin Hsieh 
+  - first_name:  Kevin  
+    last_name: Hsieh
     instituion: Microsoft
-  - name: Ninareh Mehrabi 
+  - first_name:  Ninareh  
+    last_name: Mehrabi
     instituion: University of Southern California
-  - name: Roozbeh Yousefzadeh 
+  - first_name:  Roozbeh  
+    last_name: Yousefzadeh
     instituion: Yale University
-  - name: Saurav Prakash 
+  - first_name:  Saurav  
+    last_name: Prakash
     instituion: University of Southern California
-  - name: Shen Li 
+  - first_name:  Shen  
+    last_name: Li
     instituion: Facebook
-  - name: Shengyuan Hu 
+  - first_name:  Shengyuan  
+    last_name: Hu
     instituion: Carnegie Mellon University
-  - name: Sijie Cheng 
+  - first_name:  Sijie  
+    last_name: Cheng
     instituion: Fudan University
-  - name: Sunwoo Lee 
+  - first_name:  Sunwoo  
+    last_name: Lee
     instituion: University of Southern California
-  - name: Tao Yu 
+  - first_name:  Tao  
+    last_name: Yu
     instituion: The University of Hong Kong
-  - name: Umang Gupta 
+  - first_name:  Umang  
+    last_name: Gupta
     instituion: University of Southern California
-  - name: Xin Dong 
+  - first_name:  Xin  
+    last_name: Dong
     instituion: Harvard University
-  - name: Xuechen Li 
+  - first_name:  Xuechen  
+    last_name: Li
     instituion: Stanford University
-  - name: Yae Jee Cho 
+  - first_name:  Yae Jee  
+    last_name: Cho
     instituion: Carnegie Mellon University
-  - name: Zheng Xu 
+  - first_name:  Zheng  
+    last_name: Xu
     instituion: Google
   role: Program Committee
 
