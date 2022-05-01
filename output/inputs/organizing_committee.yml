@@ -1,0 +1,26 @@
+- role: Organizing Committee
+  members:
+    - first_name:  Bill Yuchen 
+      last_name: Lin
+      institution: University of Southern California
+    - first_name:  Chaoyang 
+      last_name: He
+      institution: University of Southern California
+    - first_name:  Chulin 
+      last_name: Xie
+      institution: University of Illinois Urbana-Champaign
+    - first_name:  Fatemehsadat 
+      last_name: Mireshghallah
+      institution: University of California San Diego
+    - first_name:  Ninareh 
+      last_name: Mehrabi
+      institution: University of Southern California
+    - first_name:  Tian 
+      last_name: Li
+      institution: Carnegie Mellon University
+    - first_name:  Mahdi 
+      last_name: Soltanolkotabi
+      institution: University of Southern California
+    - first_name:  Xiang  
+      last_name: Ren
+      institution: University of Southern California

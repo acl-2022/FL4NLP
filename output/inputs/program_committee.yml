@@ -1,0 +1,176 @@
+- entries:
+  - dblp_id: https://dblp.org/pid/190/4518
+    emails: yuchen.lin@usc.edu
+    first_name: Bill Yuchen
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=7hVk87IAAAAJ&view_op=list_works&sortby=pubdate
+    homepage: http://yuchenlin.xyz/
+    last_name: Lin
+    name: Bill Yuchen Lin
+    semantic_scholar_id: https://www.semanticscholar.org/author/Bill-Yuchen-Lin/51583409?sort=pub-date
+    username: ~Bill_Yuchen_Lin1
+    institution: University of Southern California
+  - dblp_id: https://dblp.org/pid/222/6721-1.html
+    emails: chaoyang.he@usc.edu
+    first_name: Chaoyang
+    google_scholar_id: https://scholar.google.com/citations?user=2z2camUAAAAJ&hl=en
+    homepage: http://chaoyanghe.com
+    last_name: He
+    name: Chaoyang He
+    semantic_scholar_id: https://www.semanticscholar.org/author/Chaoyang-He/31927890
+    username: ~Chaoyang_He1
+    institution: University of Southern California
+  - dblp_id: https://dblp.org/pid/91/7844-5
+    emails: tianli@cmu.edu
+    first_name: Tian
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=8JWoJrAAAAAJ
+    homepage: https://www.cs.cmu.edu/~litian/
+    institution: Carnegie Mellon University
+    last_name: Li
+    name: Tian Li
+    username: ~Tian_Li1
+  - emails: ninarehm@usc.edu
+    first_name: Ninareh
+    google_scholar_id: https://scholar.google.com/citations?user=1R3XgHQAAAAJ&hl=en
+    homepage: https://scf.usc.edu/~ninarehm/
+    institution: University of Southern California
+    last_name: Mehrabi
+    name: Ninareh Mehrabi
+    username: ~Ninareh_Mehrabi2
+  - dblp_id: https://dblp.uni-trier.de/pers/m/Mireshghallah:Fatemehsadat.html
+    emails: fmireshg@eng.ucsd.edu
+    first_name: Fatemehsadat
+    google_scholar_id: https://scholar.google.com/citations?user=WUCu45YAAAAJ&hl=en&authuser=2
+    homepage: http://cseweb.ucsd.edu/~fmireshg/
+    institution: University of California, San Diego
+    last_name: Mireshghallah
+    name: Fatemehsadat Mireshghallah
+    username: ~Fatemehsadat_Mireshghallah1
+  - dblp_id: https://dblp.org/pid/36/360-1
+    emails: xiangren@usc.edu
+    first_name: Xiang
+    google_scholar_id: https://scholar.google.com/citations?user=_moJlrIAAAAJ&hl=en
+    homepage: http://www-bcf.usc.edu/~xiangren/
+    institution: University of Southern California
+    last_name: Ren
+    name: Xiang Ren
+    username: ~Xiang_Ren1
+  - dblp_id: https://dblp.org/pid/75/6691
+    emails: msoltoon@gmail.com
+    first_name: Mahdi
+    google_scholar_id: https://scholar.google.com/citations?user=narJyMAAAAAJ&hl=en
+    homepage: http://www-bcf.usc.edu/~soltanol/
+    institution: University of Southern California
+    last_name: Soltanolkotabi
+    name: Mahdi Soltanolkotabi
+    username: ~Mahdi_Soltanolkotabi1
+  - emails: chulinx2@illinois.edu
+    first_name: Chulin
+    google_scholar_id: https://scholar.google.com/citations?user=WeJnzAgAAAAJ&hl=en
+    institution: University of Illinois, Urbana Champaign
+    last_name: Xie
+    name: Chulin Xie
+    username: ~Chulin_Xie1
+  role: Program Chairs
+
+
+- entries:
+  - first_name:  Hongyuan  
+    last_name: Zhan
+    instituion: Facebook
+  - first_name:  Anit Kumar  
+    last_name: Sahu
+    instituion: Amazon Alexa AI
+  - first_name:  Bahareh  
+    last_name: Harandizadeh
+    instituion: University of Southern California
+  - first_name:  Basak  
+    last_name: Guler
+    instituion: University of California, Riverside
+  - first_name:  Dimitris  
+    last_name: Stripelis
+    instituion: University of Southern California
+  - first_name:  Eugene  
+    last_name: Bagdasaryan
+    instituion: Cornell University
+  - first_name:  Farzin  
+    last_name: Haddadpour
+    instituion: Yale University
+  - first_name:  Gerald  
+    last_name: Penn
+    instituion: University of Toronto
+  - first_name:  Hongyi  
+    last_name: Wang
+    instituion: Carnegie Mellon University
+  - first_name:  Jinhyun  
+    last_name: So
+    instituion: University of Southern California
+  - first_name:  Jun  
+    last_name: Yan
+    instituion: University of Southern California
+  - first_name:  Kshitiz  
+    last_name: Malik
+    instituion: Facebook
+  - first_name:  Kevin  
+    last_name: Hsieh
+    instituion: Microsoft
+  - first_name:  Ninareh  
+    last_name: Mehrabi
+    instituion: University of Southern California
+  - first_name:  Roozbeh  
+    last_name: Yousefzadeh
+    instituion: Yale University
+  - first_name:  Saurav  
+    last_name: Prakash
+    instituion: University of Southern California
+  - first_name:  Shen  
+    last_name: Li
+    instituion: Facebook
+  - first_name:  Shengyuan  
+    last_name: Hu
+    instituion: Carnegie Mellon University
+  - first_name:  Sijie  
+    last_name: Cheng
+    instituion: Fudan University
+  - first_name:  Sunwoo  
+    last_name: Lee
+    instituion: University of Southern California
+  - first_name:  Tao  
+    last_name: Yu
+    instituion: The University of Hong Kong
+  - first_name:  Umang  
+    last_name: Gupta
+    instituion: University of Southern California
+  - first_name:  Xin  
+    last_name: Dong
+    instituion: Harvard University
+  - first_name:  Xuechen  
+    last_name: Li
+    instituion: Stanford University
+  - first_name:  Yae Jee  
+    last_name: Cho
+    instituion: Carnegie Mellon University
+  - first_name:  Zheng  
+    last_name: Xu
+    instituion: Google
+  role: Program Committee
+
+- entries:
+  - first_name: Salman 
+    institution: University of Southern California
+    last_name: Avestimehr
+  - first_name: Virginia
+    institution: CMU
+    last_name: Smith
+  - first_name: Bo
+    institution: UIUC
+    last_name: Li
+  - first_name: Tong 
+    institution: HKUST
+    last_name: Zhang 
+  - first_name: Manzil 
+    institution: Google DeepMind
+    last_name: Zaheer 
+  - first_name: Rahul 
+    institution: Amazon Alexa
+    last_name: Gupta 
+  role: Invited Speakers

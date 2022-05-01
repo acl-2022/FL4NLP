@@ -1,0 +1,26 @@
+book_title: Proceedings of the First Workshop on Federated Learning for Natural Language Processing (FL4NLP 2022) 
+event_name: The First Workshop on Federated Learning for Natural Language Processing
+cover_subtitle: Proceedings of the Workshop
+anthology_venue_id: FL4NLP
+start_date: 2022-05-27
+end_date: 2022-05-27
+isbn: 978-1-955917-37-7
+location: Dublin, Ireland
+editors:
+  - first_name: Bill Yuchen
+    last_name: Lin
+  - first_name: Chaoyang
+    last_name: He
+  - first_name: Chulin 
+    last_name: Xie
+  - first_name: Fatemehsadat 
+    last_name: Mireshghallah
+  - first_name: Ninareh 
+    last_name: Mehrabi
+  - first_name: Tian
+    last_name: Li
+  - first_name: Mahdi 
+    last_name: Soltanolkotabi
+  - first_name: Xiang
+    last_name: Ren
+publisher: Association for Computational Linguistics
