@@ -1,0 +1,235 @@
+- abstract: 'In the context of personalized federated learning (FL), the critical
+    challenge is to balance local model improvement and global model tuning when the
+    personal and global objectives may not be exactly aligned. Inspired by Bayesian
+    hierarchical models, we develop ActPerFL, a self-aware personalized FL method
+    where each client can automatically balance the training of its local personal
+    model and the global model that implicitly contributes to other clients'' training.
+    Such a balance is derived from the inter-client and intra-client uncertainty quantification.
+    Consequently, ActPerFL can adapt to the underlying clients'' heterogeneity with
+    uncertainty-driven local training and model aggregation. With experimental studies
+    on Sent140 and Amazon Alexa audio data, we show that ActPerFL can achieve superior
+    personalization performance compared with the existing counterparts. '
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: huc044@ucsd.edu
+    first_name: Huili
+    institution: University of California, San Diego
+    last_name: Chen
+    name: Huili Chen
+    username: ~Huili_Chen1
+  - emails: dingj@umn.edu
+    first_name: Jie
+    homepage: http://jding.org
+    institution: University of Minnesota, Minneapolis
+    last_name: Ding
+    name: Jie Ding
+    username: ~Jie_Ding2
+  - dblp_id: http://dblp2.uni-trier.de/pers/hd/t/Tramel:Eric_W=
+    emails: eric.tramel@gmail.com
+    first_name: Eric
+    google_scholar_id: https://scholar.google.fr/citations?user=jre2iwMAAAAJ&hl=en
+    homepage: http://eric-tramel.github.io
+    institution: Amazon
+    last_name: Tramel
+    middle_name: William
+    name: Eric William Tramel
+    username: ~Eric_William_Tramel2
+  - emails: wushuan@amazon.com
+    first_name: wushuan@amazon.com
+    institution: NA
+    last_name: wushuan@amazon.com
+    name: wushuan@amazon.com
+    username: wushuan@amazon.com
+  - emails: anit.sahu@gmail.com
+    first_name: Anit Kumar
+    google_scholar_id: https://scholar.google.co.in/citations?user=QC1td3UAAAAJ
+    homepage: http://anitksahu.github.io
+    institution: Amazon Alexa AI
+    last_name: Sahu
+    name: Anit Kumar Sahu
+    username: ~Anit_Kumar_Sahu1
+  - dblp_id: https://dblp.org/pid/63/1946
+    emails: avestime@usc.edu
+    first_name: Salman
+    google_scholar_id: https://scholar.google.com.tw/citations?user=Qhe5ua0AAAAJ
+    homepage: https://www.avestimehr.com
+    institution: University of Southern California
+    last_name: Avestimehr
+    name: Salman Avestimehr
+    username: ~Salman_Avestimehr1
+  - emails: taozhng@amazon.com
+    first_name: taozhng@amazon.com
+    institution: NA
+    last_name: taozhng@amazon.com
+    name: taozhng@amazon.com
+    username: taozhng@amazon.com
+  decision: Accept
+  file: 2.pdf
+  id: 2
+  openreview_id: B3z-nctzFZ5
+  pdf_file: 9893cb093d6ea1fe82d11af9110fef22aae1c15c.pdf
+  title: 'ActPerFL: Active Personalized Federated Learning'
+
+- abstract: Most studies in cross-device federated learning focus on small models,
+    due to the server-client communication and on-device computation bottlenecks.
+    In this work, we leverage various techniques for mitigating these bottlenecks
+    to train larger language models in cross-device federated learning. With systematic
+    applications of partial model training, quantization, efficient transfer learning,
+    and communication-efficient optimizers, we are able to train a $21$M parameter
+    Transformer that achieves the same perplexity as that of a similarly sized LSTM
+    with $\sim10\times$ smaller client-to-server communication cost and $11\%$ lower
+    perplexity than smaller LSTMs commonly studied in literature.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: jaero@google.com
+    first_name: Jae
+    google_scholar_id: https://scholar.google.com/citations?user=Xd5wXrgAAAAJ&hl=en
+    institution: Google
+    last_name: Ro
+    middle_name: Hun
+    name: Jae Hun Ro
+    username: ~Jae_Hun_Ro1
+  - emails: tbreiner@google.com
+    first_name: Theresa
+    google_scholar_id: https://scholar.google.com/citations?user=r6vAHGIAAAAJ&hl=en
+    institution: Google
+    last_name: Breiner
+    name: Theresa Breiner
+    username: ~Theresa_Breiner1
+  - dblp_id: https://dblp.org/pid/205/9026
+    emails: laramcc@google.com
+    first_name: Lara
+    last_name: McConnaughey
+    name: Lara McConnaughey
+    username: ~Lara_McConnaughey1
+  - emails: mingqingchen@gmail.com
+    first_name: Mingqing
+    google_scholar_id: https://scholar.google.com/citations?user=c421fKoAAAAJ&hl=en
+    last_name: Chen
+    name: Mingqing Chen
+    username: ~Mingqing_Chen1
+  - dblp_id: https://dblp.org/pid/119/3884
+    emails: theertha@google.com
+    first_name: Ananda
+    google_scholar_id: https://scholar.google.com/citations?user=K6ef57QAAAAJ&hl=en&oi=ao
+    homepage: https://theertha.info
+    institution: Google
+    last_name: Suresh
+    middle_name: Theertha
+    name: Ananda Theertha Suresh
+    username: ~Ananda_Theertha_Suresh1
+  - dblp_id: https://dblp.org/pid/37/3396
+    emails: shankarkumar@google.com
+    first_name: Shankar
+    homepage: https://research.google/people/author3286/
+    last_name: Kumar
+    name: Shankar Kumar
+    semantic_scholar_id: https://www.semanticscholar.org/author/Shankar-Kumar/9567965
+    username: ~Shankar_Kumar1
+  - emails: mathews@google.com
+    first_name: Rajiv
+    google_scholar_id: https://scholar.google.com/citations?user=xFBrVYgAAAAJ&hl=en
+    institution: Google
+    last_name: Mathews
+    name: Rajiv Mathews
+    username: ~Rajiv_Mathews1
+  decision: Accept
+  file: 4.pdf
+  id: 4
+  openreview_id: ShNG29KGF-c
+  pdf_file: e081d997207dae4c00dc95be607f547c7ab5cab1.pdf
+  title: Scaling Language Model Size in Cross-Device Federated Learning
+
+- abstract: Although differential privacy (DP) can protect language models from leaking
+    privacy, its indiscriminative protection on all data points reduces its practical
+    utility. Previous works improve DP training by discriminating privacy and non-privacy
+    data.  But these works rely on datasets with prior privacy information, which
+    is not available in real-world scenarios. In this paper, we propose an Adaptive
+    Differential Privacy (ADP) framework for language modeling without resorting to
+    prior privacy information. We estimate the probability that a linguistic item
+    contains privacy based on a language model. We further propose a new Adam algorithm
+    that adjusts the degree of differential privacy noise injected to the language
+    model according to the estimated privacy probabilities. Experiments demonstrate
+    that our ADP improves differentially private language modeling to achieve good
+    protection from canary attackers.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - emails: wuxw2021@tju.edu.cn
+    first_name: Xinwei
+    homepage: https://www.zhihu.com/people/wu-xin-wei-55
+    last_name: Wu
+    name: Xinwei Wu
+    username: ~Xinwei_Wu1
+  - emails: franck.gong@bytedance.com
+    first_name: li
+    homepage: https://aclanthology.org/people/l/li-gong/
+    last_name: Gong
+    name: li gong
+    username: ~li_gong1
+  - dblp_id: https://dblp.org/pid/55/6548
+    emails: dyxiong@tju.edu.cn
+    first_name: Deyi
+    google_scholar_id: https://scholar.google.com/citations?user=QPLO3myO5PkC&hl=en
+    homepage: http://cic.tju.edu.cn/faculty/xiongdeyi/index.html
+    institution: Tianjin University
+    last_name: Xiong
+    name: Deyi Xiong
+    orcid: https://orcid.org/0000-0002-2353-5038
+    semantic_scholar_id: https://www.semanticscholar.org/author/Deyi-Xiong/2694222
+    username: ~Deyi_Xiong2
+  decision: Accept
+  file: 6.pdf
+  id: 6
+  openreview_id: B2E4hqYfKWq
+  pdf_file: 8e89cc69999a40fa0e08545aa2f66bceffb1fa93.pdf
+  title: Adaptive Differential Privacy for Language Model Training
+  
+- abstract: Federated learning is a rapidly growing area of research, holding the
+    promise of privacy-preserving distributed training on edge devices. The largest
+    barrier to wider adoption of federated learning is the communication cost of model
+    updates, which is accentuated by the fact that many edge devices are bandwidth-constrained.
+    At the same time, within the machine learning theory community, a separate line
+    of research has emerged around optimizing networks within a subspace of the full
+    space of all parameters. The dimension of the smallest subspace for which these
+    methods still yield strong results is called the intrinsic dimension. In this
+    work, we prove a general correspondence between the notions of intrinsic dimension
+    and gradient compressibility, and we show that a family of low-bandwidth federated
+    learning algorithms, which we call intrinsic gradient compression algorithms,
+    naturally emerges from this correspondence. Finally, we conduct large-scale NLP
+    experiments using transformer models with over 100M parameters (GPT-2 and BERT),
+    and show that our method significantly outperforms the state-of-the-art in gradient
+    compression.
+  attributes:
+    paper_type: N/A
+    presentation_type: N/A
+    submitted_area: null
+  authors:
+  - dblp_id: https://dblp.org/pid/228/5680
+    emails: luke.melas@gmail.com
+    first_name: Luke
+    google_scholar_id: https://scholar.google.com/citations?hl=en&user=btHxkDIAAAAJ
+    homepage: https://lukemelas.github.io/
+    last_name: Melas-Kyriazi
+    name: Luke Melas-Kyriazi
+    username: ~Luke_Melas-Kyriazi1
+  - emails: franklynw2000@gmail.com
+    first_name: Franklyn
+    google_scholar_id: https://scholar.google.com/citations?user=NWpgImoAAAAJ&hl=en&oi=ao
+    last_name: Wang
+    name: Franklyn Wang
+    username: ~Franklyn_Wang1
+  decision: Accept
+  file: 7.pdf
+  id: 7
+  openreview_id: H3NUh9Kft-c
+  pdf_file: 46f4c4400adacba3780f34eb1ed276951dc5a2e7.pdf
+  title: Intrinsic Gradient Compression for Scalable and Efficient Federated Learning
